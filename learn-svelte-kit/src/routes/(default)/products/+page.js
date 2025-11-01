@@ -1,5 +1,5 @@
 export function load() {
   return {
-    products: ["1", "2", "3", "4"],
+    products: ["1", "2", "3"],
   };
 }
